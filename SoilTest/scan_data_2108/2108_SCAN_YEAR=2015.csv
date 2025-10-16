@@ -1,0 +1,12 @@
+
+
+
+
+New Mexico (MST) SCAN Site Willow Wells - NRCS National Water and Climate Center - Provisional Data - subject to revision as of Thu Oct 16 10:30:23 GMT-08:00 2025. Notes on dates - Daily sensors (e.g. TAVG.D-1) report a summary value for the previous day.  Hourly sensors (e.g. TAVG.H-1) report a summary value for the previous hour.  Instantaneous sensors (e.g. TOBS.I-1) report a single observation on the hour.
+
+Site Id,Date,Time,PREC.I-1 (in) ,TOBS.I-1 (degC) ,TMAX.D-1 (degC) ,TMIN.D-1 (degC) ,TAVG.D-1 (degC) ,PRCP.D-1 (in) ,SMS.I-1:-2 (pct)  (loam),SMS.I-1:-4 (pct)  (loam),SMS.I-1:-8 (pct)  (loam),SMS.I-1:-12 (pct)  (loam),SMS.I-1:-20 (pct)  (loam),SMS.I-1:-40 (pct)  (loam),SMS.I-1:-60 (pct)  (loam),SMS.I-1:-80 (pct)  (loam),STO.I-1:-2 (degC) ,STO.I-1:-4 (degC) ,STO.I-1:-8 (degC) ,STO.I-1:-12 (degC) ,STO.I-1:-20 (degC) ,STO.I-1:-40 (degC) ,STO.I-1:-60 (degC) ,STO.I-1:-80 (degC) ,STO.I-2:-2 (degC) ,STO.I-2:-4 (degC) ,STO.I-2:-8 (degC) ,STO.I-2:-12 (degC) ,STO.I-2:-20 (degC) ,STO.I-2:-40 (degC) ,STO.I-2:-60 (degC) ,STO.I-2:-80 (degC) ,RHUM.I-1 (pct) ,
+
+
+
+     
+
